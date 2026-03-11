@@ -214,3 +214,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Documents
+*.pdf
+
+# Python 객체를 직렬화한 데이터를 저장한 파일
+*.pckl
